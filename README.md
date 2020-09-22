@@ -6,7 +6,7 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 # Steps
 <a href="https://sm.ms/image/NWEcBUMZXTdSaKY" target="_blank"><img src="https://i.loli.net/2020/09/23/NWEcBUMZXTdSaKY.png" width="522" height="289" /></a>
 
-1. Hover your mouse over the bookmark bar;
+1. Hover your mouse over the bookmark bar of your navigator (e.g., Chrome);
 2. Right click in blank area of the bookmark bar;
 3. Find the option "create webpage (G)" (ps. depend on your navigator, naming could be slightly different);
 4. Now you can edit your own bookmarklet on the pop-up window;

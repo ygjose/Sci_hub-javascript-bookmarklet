@@ -2,7 +2,7 @@
 This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetdk/scihub_doi_bookmarklet/blob/master/code.js). Since the sci-hub website redirected by the original code is [no longer usable](https://twitter.com/Sci_Hub/status/1308407854559358979?s=20). I updated it here. Besides, here I try to make the steps clearer, even if you have zero knowledge about javascript and creation of bookmark on a browser.
 
 # Steps
-<a href="https://sm.ms/image/NWEcBUMZXTdSaKY" target="_blank"><img src="https://i.loli.net/2020/09/23/NWEcBUMZXTdSaKY.png" /></a>
+<a href="https://sm.ms/image/NWEcBUMZXTdSaKY" target="_blank"><img src="https://i.loli.net/2020/09/23/NWEcBUMZXTdSaKY.png" width="100" height="100" /></a>
 1. Hover your mouse over the bookmark bar;
 2. Right click in blank area of the bookmark bar;
 3. Find the option "create webpage (G)" (ps. depend on your navigator, naming could be slightly different);

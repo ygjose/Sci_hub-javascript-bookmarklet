@@ -7,10 +7,15 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 <a href="https://sm.ms/image/NWEcBUMZXTdSaKY" target="_blank"><img src="https://i.loli.net/2020/09/23/NWEcBUMZXTdSaKY.png" width="522" height="289" /></a>
 
 1️⃣ Hover your mouse over the bookmark bar of your navigator (e.g., Chrome);
+
 2️⃣ Right click in blank area of the bookmark bar;
+
 3️⃣ Find the option "create webpage (G)" (ps. depend on your navigator, naming could be slightly different);
+
 4️⃣ Now you can add your own bookmarklet to the pop-up window;
+
 5️⃣ Name: (let's say) Sci-hub Passkey; Website: copy and paste [the javascript](https://github.com/ygjose/Sci_hub-javascript-bookmarklet/blob/master/Sci-hub%20Passkey.js);
+
 6️⃣ Voila! You will be seeing a new bookmarklet on your bookmark bar. That means you successfully created your sci-hub passkey.
 
 # Now, how to use

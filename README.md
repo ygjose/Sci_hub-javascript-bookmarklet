@@ -1,4 +1,6 @@
 # Sci-Hub javascript bookmarklet
+<a href="https://sm.ms/image/kKwFNht7mesITnj" target="_blank"><img src="https://i.loli.net/2020/09/23/kKwFNht7mesITnj.png" width="522" height="289" /></a>
+
 This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetdk/scihub_doi_bookmarklet/blob/master/code.js). Since the sci-hub website redirected by the original code is [no longer usable](https://twitter.com/Sci_Hub/status/1308407854559358979?s=20). I updated it here. Besides, here I try to make the steps clearer, even if you have zero knowledge about javascript and creation of bookmark on a browser.
 
 # Steps
@@ -12,6 +14,6 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 6. Voila! You will be seeing a new bookmarklet on your bookmark bar. That means you successfully created your sci-hub passkey.
 
 # Now, how to use
-<a href="https://sm.ms/image/1JTOCv2MZbP5Yuk" target="_blank"><img src="https://i.loli.net/2020/09/23/1JTOCv2MZbP5Yuk.png" width="422" height="422" /></a>
+<a href="https://sm.ms/image/1JTOCv2MZbP5Yuk" target="_blank"><img src="https://i.loli.net/2020/09/23/1JTOCv2MZbP5Yuk.png" width="380" height="380" /></a>
 
 Easy peasy! You just need to go to the webpage of that paper (say, an article from Elsevier) that you want to download. And one that very page you can usually find doi. **Now when you click on the newly created bookmarklet, it should be able to automatically identify the DOI and redirect you to PDF download page of Sci-Hub.**

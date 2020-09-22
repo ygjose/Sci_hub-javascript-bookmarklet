@@ -1,5 +1,5 @@
 # Sci-Hub javascript bookmarklet
-This is javascript completely owe to [@Deleetdk's code](https://github.com/Deleetdk/scihub_doi_bookmarklet/blob/master/code.js). Since the directed sci-hub website provided by the original code is no longer usable. I updated it here. Besides, here I try to make the steps clearer, even if you have zero knowledge about javascript and creation of bookmark on a browser.
+This javascript completely owe to [@Deleetdk's code](https://github.com/Deleetdk/scihub_doi_bookmarklet/blob/master/code.js). Since the directed sci-hub website provided by the original code is no longer usable. I updated it here. Besides, here I try to make the steps clearer, even if you have zero knowledge about javascript and creation of bookmark on a browser.
 
 # Steps
 1. Hover your mouse over the bookmark bar;

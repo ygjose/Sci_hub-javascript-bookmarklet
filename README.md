@@ -9,7 +9,7 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 1. Hover your mouse over the bookmark bar of your navigator (e.g., Chrome);
 2. Right click in blank area of the bookmark bar;
 3. Find the option "create webpage (G)" (ps. depend on your navigator, naming could be slightly different);
-4. Now you can edit your own bookmarklet on the pop-up window;
+4. Now you can add your own bookmarklet to the pop-up window;
 5. Name: (let's say) Sci-hub Passkey; Website: copy and paste [the javascript](https://github.com/ygjose/Sci_hub-javascript-bookmarklet/blob/master/Sci-hub%20Passkey.js);
 6. Voila! You will be seeing a new bookmarklet on your bookmark bar. That means you successfully created your sci-hub passkey.
 

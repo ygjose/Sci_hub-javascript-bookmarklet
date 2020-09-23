@@ -40,4 +40,4 @@ Well, simply because you can **save** the time of
 
 ✅ Pasting DOI
 
-You may think this only cost you like two or three seconds. But remember that quantity changes lead to qualality change. If you are a frequent user of Sci-Hub, this trick will save you a lot of time.
+You may think this only cost you like two or three seconds. But remember that quantity changes lead to quality changes. If you are a frequent user of Sci-Hub, this trick will save you a lot of time.

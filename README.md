@@ -1,12 +1,12 @@
 # Sci-Hub javascript bookmarklet
-<a href="https://sm.ms/image/kKwFNht7mesITnj" target="_blank"><img src="https://i.loli.net/2020/09/23/kKwFNht7mesITnj.png" width="517" height="345" /></a>
-（Illustration by <a href="undefined">Natasha Remarchuk</a> from <a href="https://icons8.com/">Icons8</a>）
+<a href="https://sm.ms/image/kKwFNht7mesITnj" target="_blank"><img src="https://i.loli.net/2020/09/23/kKwFNht7mesITnj.png" width="481" height="305" /></a>
+（Illustration by Natasha Remarchuk from <a href="https://icons8.com/">Icons8</a>）
 
 This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetdk/scihub_doi_bookmarklet/blob/master/code.js). Since the sci-hub website redirected by the original code is [no longer usable](https://twitter.com/Sci_Hub/status/1308407854559358979?s=20). I updated it here. Besides, here I try to make the steps clearer, even if you have zero knowledge about javascript and creation of bookmark on a browser.
 
 # Steps
 <a href="https://sm.ms/image/NWEcBUMZXTdSaKY" target="_blank"><img src="https://i.loli.net/2020/09/23/NWEcBUMZXTdSaKY.png" width="522" height="289" /></a>
-（Illustration by <a href="undefined">Icons 8</a> from <a href="https://icons8.com/">Icons8</a>）
+（Illustration by Icons 8 from <a href="https://icons8.com/">Icons8</a>）
 
 1️⃣ Hover your mouse over the bookmark bar of your navigator (e.g., Chrome);
 
@@ -22,13 +22,13 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 
 # Now, how to
 <a href="https://sm.ms/image/1JTOCv2MZbP5Yuk" target="_blank"><img src="https://i.loli.net/2020/09/23/1JTOCv2MZbP5Yuk.png" width="380" height="380" /></a>
-（Illustration by <a href="undefined">Olha Khomich</a> from <a href="https://icons8.com/">Icons8</a>）
+（Illustration by Olha Khomich from <a href="https://icons8.com/">Icons8</a>）
 
 Easy peasy! You just need to go to the webpage of that paper (say, an article from Elsevier) that you want to download. And in that very page there is usually a DOI. **Now, when you click on the newly created bookmarklet, it should be able to automatically identify the DOI and redirect you to PDF download page of Sci-Hub.**
 
 # Why
 <a href="https://sm.ms/image/VNeD57YMnBQCgpG" target="_blank"><img src="https://i.loli.net/2020/09/23/VNeD57YMnBQCgpG.png" width="380" height="380" /></a>
-(Illustration by <a href="undefined">Natasha Remarchuk</a> from <a href="https://icons8.com/">Icons8</a>)
+(Illustration by Natasha Remarchuk from <a href="https://icons8.com/">Icons8</a>)
 > I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. (Bill Gates)
 
 Why should you use Sci-Hub Passkey instead of the conventional way you do?

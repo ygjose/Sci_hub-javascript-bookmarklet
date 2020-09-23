@@ -33,6 +33,7 @@ Easy peasy! You just need to go to the webpage of that paper (say, an article fr
 
 Why should you use Sci-Hub Passkey instead of the conventional way you do?
 Well, simply because you can **save** the time of 
+
 ✅ Copying DOI
 
 ✅ Opening Sci-Hub webpage

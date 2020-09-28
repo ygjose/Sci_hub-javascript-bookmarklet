@@ -12,11 +12,11 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 
 2️⃣ Right click in blank area of the bookmark bar;
 
-3️⃣ Find the option "create webpage (G)" (ps. depend on your navigator, naming could be slightly different);
+3️⃣ Find the option "create webpage (G)" (ps. depending on your navigator, naming could be slightly different);
 
 4️⃣ Now you can add your own bookmarklet to the pop-up window;
 
-5️⃣ Name: (let's say) Sci-hub Passkey; Website: copy and paste [the javascript](https://github.com/ygjose/Sci_hub-javascript-bookmarklet/blob/master/Sci-hub%20Passkey.js);
+5️⃣ Name: (let's say) Sci-hub Passkey; URL: copy and paste [the javascript](https://github.com/ygjose/Sci_hub-javascript-bookmarklet/blob/master/Sci-hub%20Passkey.js);
 
 6️⃣ Voila! You will be seeing a new bookmarklet on your bookmark bar. That means you successfully created your sci-hub passkey.
 

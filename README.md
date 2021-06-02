@@ -24,11 +24,11 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 
 ### For Mac Safari users:
 
-1️⃣ In the Safari app on your Mac, choose `View > Show Favorites Bar` (This step allows you to show bookmarklet below url address bar instead of side bar. So every time you open a new tab, the bookmarklet still display below the url bar)
+1️⃣ In the Safari app on your Mac, choose `View > Show Favorites Bar` (This step allows you to show bookmarklet below url address bar instead of side bar. So every time you open a new tab, the bookmarklet still displays below the url bar)
 
 2️⃣ In the Safari app on your Mac, choose `Bookmark > Edit bookmark`
 
-3️⃣ `New folder`, rename it (e.g. Sci-Hub passkey) and paste the Javascript code into the address box.
+3️⃣ `New folder`, rename it (e.g. Sci-Hub Passkey) and paste the Javascript code into the address box.
 
 ```javascript
 javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.se' + location.pathname + location.search

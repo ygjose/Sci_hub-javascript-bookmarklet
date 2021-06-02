@@ -8,7 +8,9 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 <a href="https://sm.ms/image/NWEcBUMZXTdSaKY" target="_blank"><img src="https://i.loli.net/2020/09/23/NWEcBUMZXTdSaKY.png" width="522" height="289" /></a>
 （Illustration by Icons 8 from <a href="https://icons8.com/">Icons8</a>）
 
-1️⃣ Hover your mouse over the bookmark bar of your navigator (e.g., Chrome);
+### For Chromium-based browser:
+
+1️⃣ Hover your mouse over the bookmark bar of your navigator;
 
 2️⃣ Right click in blank area of the bookmark bar;
 
@@ -19,6 +21,18 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 5️⃣ Name: (let's say) Sci-hub Passkey; URL: copy and paste [the javascript](https://github.com/ygjose/Sci_hub-javascript-bookmarklet/blob/master/Sci-hub%20Passkey.js);
 
 6️⃣ Voila! You will be seeing a new bookmarklet on your bookmark bar. That means you successfully created your sci-hub passkey.
+
+### For Mac Safari users:
+
+1️⃣ In the Safari app on your Mac, choose `View > Show Favorites Bar` (This step allows you to show bookmarklet below url address bar instead of side bar. So every time you open a new tab, the bookmarklet still display below the url bar)
+
+2️⃣ In the Safari app on your Mac, choose `Bookmark > Edit bookmark`
+
+3️⃣ `New folder`, rename it (e.g. Sci-Hub passkey) and paste the Javascript code into the address box.
+
+```javascript
+javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.se' + location.pathname + location.search
+```
 
 # Now, how to
 <a href="https://sm.ms/image/1JTOCv2MZbP5Yuk" target="_blank"><img src="https://i.loli.net/2020/09/23/1JTOCv2MZbP5Yuk.png" width="380" height="380" /></a>

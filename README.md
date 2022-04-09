@@ -30,8 +30,10 @@ This javascript completely owes to [@Deleetdk's code](https://github.com/Deleetd
 
 3️⃣ `New folder`, rename it (e.g. Sci-Hub Passkey) and paste the Javascript code into the address box.
 
+~~javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.se' + location.pathname + location.search~~
+
 ```javascript
-javascript:location.href = location.origin.replace(/^https/, 'http') + '.sci-hub.se' + location.pathname + location.search
+javascript: (function(){ window.open( 'https://sci-hub.ee/' + location.href,'_blank')})();
 ```
 
 # Now, how to
